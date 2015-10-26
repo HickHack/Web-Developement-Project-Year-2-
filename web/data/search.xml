@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <vehicle>
+        <image>images/bikes/S1000RR-HP4.jpg</image>
+        <details>
+            <name>BMW S1000RR HP4</name>
+            <manufacturer>BMW</manufacturer>
+            <description>
+                As if the standard S1000RR wasn’t good enough already, BMW have made it even faster, 
+                lighter and more technologically-advanced, with this HP4 version. The jewel in the HP4’s crown is the new 
+                electronic Dynamic Damping Control (DDC) suspension system, which adjusts the rebound and compression damping 
+                as you ride along. It gives the BMW the perfect suspension setting whether you’re on a bumpy back-road or hammering 
+                around a smooth racetrack. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>999cc</engineSize>
+            <topSpeed>191mph</topSpeed>
+            <bhp>198bhp</bhp>
+            <zero-sixty>2.4secs</zero-sixty>
+            <cost>&#128;18,500</cost>
+            <mpg>51mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/CBR-1000.jpg</image>
+        <details>
+            <name>Honda CBR1000RR Fireblade </name>
+            <manufacturer>Honda</manufacturer>
+            <description> 
+                The big news for the 2009 Honda CBR1000RR Fireblade isn’t its new, oval-shaped indicators, 
+                but its revolutionary electronically-controlled Combined ABS system. This makes the Honda Fireblade 
+                the world’s first ever ABS-equipped superbike. This system takes none of the enjoyment out of riding 
+                this incredible superbike and it feels just the same to ride as a normal Blade, even on the track. 
+                The system stays in the background until the moment you get into a difficult braking situation, then the 
+                ‘brake-by-wire’ kicks in.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>999cc</engineSize>
+            <topSpeed>186mph</topSpeed>
+            <bhp>176bhp</bhp>
+            <zero-sixty>2.3secs</zero-sixty>
+            <cost>&#128;17,995</cost>
+            <mpg>48mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/ZZR-1000.jpg</image>
+        <details>
+            <name>Kawasaki ZZR1400</name>
+            <manufacturer>Kawasaki</manufacturer>
+            <description> 
+                Simply put Kawasaki’s new ZZR is the new king of speed and power, beating the formidable Hayabusa hands down. 
+                It produces more power and torque, and accelerates quicker than any other road bike but unfortunately is still 
+                restricted to an agreed 186mph limit, but will get there in breathtaking time, hitting the limiter with ease, 
+                still with plenty in reserve. Not just a one trick pony either, now comes with ABS, power modes and traction control 
+                as standard.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>1441cc</engineSize>
+            <topSpeed>201mph</topSpeed>
+            <bhp>200bhp</bhp>
+            <zero-sixty>1.8secs</zero-sixty>
+            <cost>&#128;16,000</cost>
+            <mpg>47mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/GSXR-1000.jpg</image>
+        <details>
+            <name>Suzuki GSX-R1000</name>
+            <manufacturer>Suzuki</manufacturer>
+            <description>
+                The now old GSX-R was an exceptional bike, winning AMA and world endurance 
+                titles and narrowly missing out on a BSB title. Suzuki have simply improved the weak points, 
+                namely better brakes, more midrange, lighter handling with a few cosmetic tweaks, which in the end produces an 
+                exceptional road bike with real world manners. It may lack sophisticated traction control and ABS, and isn’t as 
+                race-focussed as BMW’s S1000R or Kawasaki’s ZX-10R but it won’t be far behind in terms of lap times and is much more
+                forgiving on the road
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>999cc</engineSize>
+            <topSpeed>186mph</topSpeed>
+            <bhp>182bhp</bhp>
+            <zero-sixty>2.3secs</zero-sixty>
+            <cost>&#128;19,000</cost>
+            <mpg>50mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/ZXR-1000.jpg</image>
+        <details>
+            <name>Kawasaki ZX-10R</name>
+            <manufacturer>Kawasaki</manufacturer>
+            <description> 
+                Kawasaki’s ZX-10R evokes thoughts of rip-roaring power and handling best suited to race circuits. 
+                While that may have been the case of the original 2004 model, subsequent models have been diluted to the point 
+                where ZX-10R is regarded as a decent on the road superbike but not quite in touch with the competition of the latest Blade, 
+                techno-laden R1 and BMW’s S1000RR. The 2011 Kawasaki ZX-10R is the bike to change this. 
+                It is the first of the Japanese bikes to come out fighting against the storming BMW and, based on MCN’s first ride 
+                (at Qatar’s Losail circuit), the Kawasaki’s superb blend of handling, braking, usable power and decent suspension will 
+                make it a better road bike than the BMW.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>998cc</engineSize>
+            <topSpeed>185mph</topSpeed>
+            <bhp>197bhp</bhp>
+            <zero-sixty>1.98sec</zero-sixty>
+            <cost>&#128;15,000</cost>
+            <mpg>49mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/GSXR-600.jpg</image>
+        <details>
+            <name>Suzuki GSX-R600</name>
+            <manufacturer>Suzuki</manufacturer>
+            <description> 
+                Suzuki has slashed an incredible 9kg from the 2011 GSX-R600. The engine has more midrange, 
+                a close ratio gearbox and for the first time, Showa Big Piston Forks and Brembo monobloc radial front brakes. 
+                Aside from a handful of components, the GSX-R600 is completely new. The easy-going nature of the bike is still there, 
+                but it’s sharper, more agile and there’s more punch out of the corners. If only it looked a bit special and not look just 
+                like any other GSX-R to be made over the past decade.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>599cc</engineSize>
+            <topSpeed>176</topSpeed>
+            <bhp>125bhp</bhp>
+            <zero-sixty>2.9secs</zero-sixty>
+            <cost>&#128;13,000</cost>
+            <mpg>54mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/CBR-600.jpg</image>
+        <details>
+            <name>Honda CBR600RR</name>
+            <manufacturer>Honda</manufacturer>
+            <description>
+                Honda has given its supersports weapon subtle tweaks for 2009, designed to give it more mid-range oomph and a 
+                smoother power delivery. New pistons, cylinder head and exhaust system have bolstered torque between 6000-10,000rpm, 
+                which makes the engine more flexible on the road. Luckily for us, this has been done without sacrificing any top-end power. 
+                The big news, though, is the optional electronically-controlled Combined ABS system, which is a world-first for a supersports machine. A new-style bellypan now 
+                covers the whole engine and the C-ABS valve unit for the front brake. The C-ABS version doesn’t detract from the 
+                enjoyment of riding MCN’s supersport 2008 machine of the year, and it feels just the same to ride as the standard Honda 
+                CBR600RR, even on the track
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>599cc</engineSize>
+            <topSpeed>170mph</topSpeed>
+            <bhp>107bhp</bhp>
+            <zero-sixty>2.7sec</zero-sixty>
+            <cost>&#128;13,500</cost>
+            <mpg>32mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/ZXR-600.jpg</image>
+        <details>
+            <name>Kawasaki ZX-6R</name>
+            <manufacturer>Kawasaki</manufacturer>
+            <description>
+                In terms of chassis and handling the new Kawasaki ZX-6R a big step forward over the old ZX-6R. The new big piston 
+                forks use MotoGP technology and make a huge difference. They take a little getting use to at first but enable you to 
+                brake devilishly late yet the bike remains stable. Engine wise 115bhp at the back wheel makes it the most powerful 
+                standard 600 we have ever tested, say no more.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>599cc</engineSize>
+            <topSpeed>163mph</topSpeed>
+            <bhp>115</bhp>
+            <zero-sixty>2.8secs</zero-sixty>
+            <cost>&#128;10,000</cost>
+            <mpg>36mpg</mpg>
+            <cylinders>Inline-4</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/VFR-400.jpg</image>
+        <details>
+            <name>Honda VFR400R NC30</name>
+            <manufacturer>Honda</manufacturer>
+            <description>
+                The Honda VFR400R, or NC30 as it’s commonly known, is effectively a 400cc version of the iconic VFR750R (RC30) 
+                and as such is a cheaper alternative to the RVF400R which succeeded it in 1994. It has excellent handling, still 
+                looks good and a usable engine for road and track, although it’s not as quick flat out as some of the other 400 imports. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>399cc</engineSize>
+            <topSpeed>128mph</topSpeed>
+            <bhp>60bhp</bhp>
+            <zero-sixty>3.2secs</zero-sixty>
+            <cost>&#128;16,000</cost>
+            <mpg>39mpg</mpg>
+            <cylinders>V Four</cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/bikes/DUCATI-1098.jpg</image>
+        <details>
+            <name>Ducati 1098</name>
+            <manufacturer>Ducati</manufacturer>
+            <description>
+                This is the Ducati motorcycle we’ve been waiting for since the original Ducati 916. It’s a Ducati motorcycle 
+                in the truest form. Blood red, stunning to look at and absolutely pure in its purpose. It’s been a long time coming 
+                but it finally looks like Ducati has built a sports bike that can run with the best. The Ducati 1098 finally stands 
+                for what a Ducati motorycle means - pure unadulterated sports bike heaven.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>1099cc</engineSize>
+            <topSpeed>185mph</topSpeed>
+            <bhp>160bhp</bhp>
+            <zero-sixty>2.2secs</zero-sixty>
+            <cost>&#128;20,000</cost>
+            <mpg>42mpg</mpg>
+            <cylinders>Desmo V-Twin</cylinders>
+        </specification>
+    </vehicle>
+            
+    <vehicle>
+        <image>images/cars/DBS.jpg</image>
+        <details>
+            <name>Aston Martin DBS</name>
+            <manufacturer>Aston Martin</manufacturer>
+            <description> The modern Aston Martin DBS is a high performance GT sports car version of the DB9 from the UK manufacturer Aston Martin.
+                Aston has used the DBS name once before on their 1967 72 grand tourer coupe. The modern car replaces the 2004 Vanquish S as the flagship of the marque. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize> 5.935L V12 </engineSize>
+            <topSpeed>191mph </topSpeed>
+            <bhp>510hp</bhp>
+            <zero-sixty>4.3 Seconds </zero-sixty>
+            <cost>&#128;180,000 </cost>
+            <mpg>22mpg </mpg>
+            <cylinders>V12 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/fer458.jpg</image>
+        <details>
+            <name>Ferrari 458</name>
+            <manufacturer>Ferrari</manufacturer>
+            <description>The Ferrari 458 is a mid-engined sports car produced by the Italian sports car manufacturer Ferrari. The 458 replaced the Ferrari F430, 
+                and was first officially unveiled at the 2009 Frankfurt Motor Show. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>4.5L V8 </engineSize>
+            <topSpeed>202mph </topSpeed>
+            <bhp>562hp</bhp>
+            <zero-sixty>3.3 Seconds </zero-sixty>
+            <cost>&#128;187,478 </cost>
+            <mpg>21.2mpg </mpg>
+            <cylinders>V8 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/aventador.jpg</image>
+        <details>
+            <name>Lamborghini Aventador</name>
+            <manufacturer>Lamborghini</manufacturer>
+            <description>The Lamborghini Aventador is a mid-engined sports car produced by the Italian manufacturer Automobili Lamborghini.
+                Launched on 28 February 2011 at the Geneva Motor Show, five months after its initial unveiling in Sant'Agata Bolognese, 
+                the vehicle,internally codenamed LB834, was designed to replace the ten-year-old Murciélago as the new flagship model. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>6.5L V12 </engineSize>
+            <topSpeed>217mph</topSpeed>
+            <bhp>690bhp</bhp>
+            <zero-sixty>2.9 Seconds </zero-sixty>
+            <cost>&#128;330,697 </cost>
+            <mpg>16.4mpg </mpg>
+            <cylinders>V12 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/veyron.jpg</image>
+        <details>
+            <name>Bugatti Veyron</name>
+            <manufacturer>Bugatti</manufacturer>
+            <description>The Bugatti Veyron EB 16.4 is a mid-engined supercar, designed and developed by the Volkswagen Group and manufactured in 
+                Molsheim, France, by Bugatti Automobiles S.A.S. The current Super Sport version of the Veyron is recognized by Guinness 
+                World Records as the fastest street-legal production car in the world, with a top speed of 431.072 km/h (267.856 mph), 
+                and the roadster Veyron Grand Sport Vitesse version is the fastest roadster in the world, reaching an averaged top speed 
+                of 408.84 km/h (254.04 mph) in a test on 6 April 2013.
+
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>8.0L W16 quad-turbocharged</engineSize>
+            <topSpeed>254.04mph </topSpeed>
+            <bhp>987bhp</bhp>
+            <zero-sixty>2.4 Seconds</zero-sixty>
+            <cost>&#128;1,806,728 </cost>
+            <mpg>9.6mpg</mpg>
+            <cylinders>W16 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/mc12c.jpg</image>
+        <details>
+            <name>McLaren 12C</name>
+            <manufacturer>McLaren</manufacturer>
+            <description>The McLaren MP4-12C, later known simply as the McLaren 12C, is a supercar designed and manufactured by McLaren Automotive. It 
+                is the first production car wholly designed and built by McLaren since the McLaren F1, which ended production in 1998. The car's 
+                final design was unveiled in September 2009, and was launched in mid-2011.The MP4-12C features a carbon fibre composite chassis, 
+                and is powered by a mid-mounted McLaren M838T 3.8-litre V8, twin-turbo engine developing approximately 592 hp (441 kW; 600 PS) and 
+                around 443 lb·ft (601 N·m) of torque. The car makes use of Formula 1-sourced technologies such as "brake steer",[4] where the inside 
+                rear wheel is braked during fast cornering to reduce understeer. Power is transmitted to the wheels through a seven-speed seamless 
+                shift dual-clutch gearbox. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize> twin-turbo 3.8 L V8 </engineSize>
+            <topSpeed>213.2mph</topSpeed>
+            <bhp>592hp</bhp>
+            <zero-sixty>2.8 Seconds</zero-sixty>
+            <cost>&#128;183,820 </cost>
+            <mpg>20mpg </mpg>
+            <cylinders>V8 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/kagera.jpg</image>
+        <details>
+            <name>Koenigsegg Agera</name>
+            <manufacturer>Koenigsegg</manufacturer>
+            <description>
+                The Koenigsegg Agera is a mid-engined sports car made by Swedish car manufacturer Koenigsegg as of 2011. It is a successor to the 
+                Koenigsegg CCX/CCXR. The name Agera comes from the Swedish verb 'agera' which means "to act or "to take action".
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>5.0L V8 twin-turbocharged</engineSize>
+            <topSpeed>270mph</topSpeed>
+            <bhp>940hp</bhp>
+            <zero-sixty>3.0 Seconds</zero-sixty>
+            <cost>&#128;1,520,000 </cost>
+            <mpg>9.0mpg </mpg>
+            <cylinders>v8 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/huayra.jpg</image>
+        <details>
+            <name>Pagani Huayra</name>
+            <manufacturer>Pagani</manufacturer>
+            <description>
+                The Pagani Huayra (pronounced: wai-rah) is an Italian mid-engined sports car produced by Pagani. Succeeding the company's previous 
+                offering, the Zonda, it costs  1,198,000 ($1,600,000). It is named after Wayra Tata, which means "God of the winds" in Quechua, the 
+                official language of the Inca Empire.The Huayra was named "The Hypercar of the Year 2012" by Top Gear magazine and received a very 
+                positive review when tested by Richard Hammond on Top Gear. The Huayra is currently the fastest car to go around the Top Gear Test 
+                Track, setting a time of 1:13.8, beating the previous record of 1:15.1 set by the Ariel Atom V8 in January 2011.
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>twin-turbo V12</engineSize>
+            <topSpeed>231mph</topSpeed>
+            <bhp>720hp</bhp>
+            <zero-sixty>3.2 Seconds</zero-sixty>
+            <cost>&#128;1,198,000</cost>
+            <mpg>10mpg </mpg>
+            <cylinders>V12 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/granturismo.jpg</image>
+        <details>
+            <name>Maserati GranTurismo</name>
+            <manufacturer>Maserati</manufacturer>
+            <description>
+                The Maserati GranTurismo is a two-door, four-seat coupé produced by the Italian car manufacturer Maserati. It shares the platform of the 
+                Maserati Quattroporte V and parts of the Ferrari 599 GTB and Scaglietti.Launched in 2007 as coupe, with a cabriolet model added in 2010,
+                production of the GranTurismo is scheduled to end in 2014, with its replacement not expected to be launched until 2018. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>4.2L V8 </engineSize>
+            <topSpeed>177mph </topSpeed>
+            <bhp>399hp</bhp>
+            <zero-sixty>4.5 Seconds</zero-sixty>
+            <cost>&#128;135,000 </cost>
+            <mpg>18.3mpg</mpg>
+            <cylinders>V8 </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/i8.jpg</image>
+        <details>
+            <name>BMW I8</name>
+            <manufacturer>BMW</manufacturer>
+            <description>
+                The BMW i8, first introduced as the BMW Concept Vision Efficient Dynamics, is a plug-in hybrid sports car developed by BMW. The 2015 model year 
+                BMW i8 has a 7.1 kWh lithium-ion battery pack that delivers an all-electric range of 37 km (23 mi) under the New European Driving Cycle (NEDC).
+                Under the United States Environmental Protection Agency (EPA)cycle, the range in EV mode is 24 km (15 mi) with a small amount of gasoline consumption. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>1.5L turbocharged Inline-3 gasoline</engineSize>
+            <topSpeed>160mph</topSpeed>
+            <bhp>131hp</bhp>
+            <zero-sixty>4.4 Seconds </zero-sixty>
+            <cost>&#128;136,625</cost>
+            <mpg>135mpg</mpg>
+            <cylinders> </cylinders>
+        </specification>
+    </vehicle>
+
+    <vehicle>
+        <image>images/cars/ford.jpg</image>
+        <details>
+            <name>Ford GT</name>
+            <manufacturer>Ford</manufacturer>
+            <description>
+                The Ford GT is an American mid-engine two-seater sports car. Ford Motor Company produced the Ford GT for the 2005 to 2006 model years. The designers 
+                drew inspiration from Ford's GT40 racing cars of the 1960s. 
+            </description>
+        </details>
+
+        <specification>
+            <engineSize>5.4L V8 </engineSize>
+            <topSpeed>205mph</topSpeed>
+            <bhp>550hp</bhp>
+            <zero-sixty>3.6 Seconds </zero-sixty>
+            <cost>&#128;119,760 </cost>
+            <mpg>17mpg</mpg>
+            <cylinders>V8 </cylinders>
+        </specification>
+    </vehicle>  
+
+</vehicles>

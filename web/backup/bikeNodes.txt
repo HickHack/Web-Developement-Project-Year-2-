@@ -1,0 +1,36 @@
+for (int i = 0; i < num_articles; i++) {
+
+                Node articleNode = articleNodeList.item(i);
+
+                NodeList articleNodeListChildren = articleNode.getChildNodes();
+                Node articleNameNode = articleNodeListChildren.item(1);
+                Node nameTextNode = articleNameNode.getChildNodes().item(0);
+                String articleNameValue = nameTextNode.getNodeValue();
+
+                if (articleName.equals(articleNameValue)) {
+
+                    if (i != 0) {
+                        prev_name = articleNodeList.item(i - 1).getChildNodes().item(1).getChildNodes().item(0).getNodeValue();
+                    } else {
+                        prev_name = articleNodeList.item(num_articles - 1).getChildNodes().item(1).getChildNodes().item(0).getNodeValue();
+                    }
+
+                    if (i != (num_articles - 1)) {
+                        next_name = articleNodeList.item(i + 1).getChildNodes().item(1).getChildNodes().item(0).getNodeValue();
+                    } else {
+                        next_name = articleNodeList.item(0).getChildNodes().item(1).getChildNodes().item(0).getNodeValue();
+                    }
+
+                    // Apply transform
+                    transform.setParameter("vTitle", articleName);
+
+                    /* Used to return next and previous articles later
+                     *optimusPrime.setParameter("vNextName", next_name);
+                     *optimusPrime.setParameter("vPrevName", prev_name);
+                     */
+                    // Transform XML and XSL to HTML
+                    
+
+                }//End if
+                
+            }//End for loop

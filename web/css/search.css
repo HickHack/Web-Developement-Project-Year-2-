@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-Nov-2014, 18:07:56
+    Author     : Graham Murray
+*/
+
+#searchTable{
+    width:99%;
+    height:auto;
+    margin:auto;
+    background:lightblue;
+    opacity:0.8;
+    -webkit-box-shadow: -10px -1px 21px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    -10px -1px 21px 0px rgba(50, 50, 50, 0.75);
+    box-shadow:         -10px -1px 21px 0px rgba(50, 50, 50, 0.75);
+    font-family: arial;
+    text-align:center;
+    border-radius:10px;
+}
+#searchTable td{
+    border-radius:10px;
+}
+#descrpt{
+    font-size:14px;
+    height:200px;
+    width:auto;
+    border-radius:10px;
+}

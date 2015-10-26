@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<v:vehicles   xmlns:v="http://www.WebDev.nci/tutorial">
+        <v:vehicle id="c1">
+                    <v:image>images/cars/DBS.jpg</v:image>
+                    <parameter>1</parameter>
+                    <v:video>//www.youtube.com/embed/b97UVBCqPXI</v:video>
+                    <v:details>
+                            <v:name>Aston Martin DBS</v:name>
+                            <v:manuacturer>Aston Martin</v:manuacturer>
+                            <v:description> 
+                                The modern Aston Martin DBS is a high performance GT sports car version of the DB9 from the UK manufacturer Aston Martin.
+                                Aston has used the DBS name once before on their 1967 72 grand tourer coupe. The modern car replaces the 2004 Vanquish S as the flagship of the marque. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>5.935L</v:engineSize>
+                            <v:topSpeed>191mph</v:topSpeed>
+                            <v:bhp>510bhp</v:bhp>
+                            <v:zero-sixty>4.3secs</v:zero-sixty>
+                            <v:cost>180,000</v:cost>
+                            <v:mpg>22mpg</v:mpg>
+                            <v:cylinders>V12</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c2">
+                    <v:image>images/cars/fer458.jpg</v:image>
+                    <parameter>2</parameter>
+                    <v:video>//www.youtube.com/embed/HiqPGpaLxf8</v:video>
+                    <v:details>
+                            <v:name>Ferrari 458</v:name>
+                            <v:manuacturer>Ferrari</v:manuacturer>
+                            <v:description>
+                            The Ferrari 458 is a mid-engined sports car produced by the Italian sports car manufacturer Ferrari. The 458 replaced the Ferrari F430, 
+                            and was first officially unveiled at the 2009 Frankfurt Motor Show. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>4.5L</v:engineSize>
+                            <v:topSpeed>202mph</v:topSpeed>
+                            <v:bhp>562bhp</v:bhp>
+                            <v:zero-sixty>3.3secs</v:zero-sixty>
+                            <v:cost>187,478</v:cost>
+                            <v:mpg>21.2mpg</v:mpg>
+                            <v:cylinders>V8</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c3">
+                    <v:image>images/cars/aventador.jpg</v:image>
+                    <parameter>3</parameter>
+                    <v:video>//www.youtube.com/embed/UZiHPLGh-Ek</v:video>
+                    <v:details>
+                            <v:name>Lamborghini Aventador</v:name>
+                            <v:manuacturer>Lamborghini</v:manuacturer>
+                            <v:description>
+                            The Lamborghini Aventador is a mid-engined sports car produced by the Italian manufacturer Automobili Lamborghini.
+                            Launched on 28 February 2011 at the Geneva Motor Show, five months after its initial unveiling in Sant'Agata Bolognese, 
+                            the vehicle,internally codenamed LB834, was designed to replace the ten-year-old Murciélago as the new flagship model. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>6.5L</v:engineSize>
+                            <v:topSpeed>217mph</v:topSpeed>
+                            <v:bhp>690bhp</v:bhp>
+                            <v:zero-sixty>2.9secs</v:zero-sixty>
+                            <v:cost>330,697</v:cost>
+                            <v:mpg>16.4mpg</v:mpg>
+                            <v:cylinders>V12</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c4">
+                    <v:image>images/cars/veyron.jpg</v:image>
+                    <parameter>4</parameter>
+                    <v:video>//www.youtube.com/embed/yoK4QYwixDc</v:video>
+                    <v:details>
+                            <v:name>Bugatti Veyron</v:name>
+                            <v:manuacturer>Bugatti</v:manuacturer>
+                            <v:description>
+                            The Bugatti Veyron EB 16.4 is a mid-engined supercar, designed and developed by the Volkswagen Group and manufactured in 
+                            Molsheim, France, by Bugatti Automobiles S.A.S. The current Super Sport version of the Veyron is recognized by Guinness 
+                            World Records as the fastest street-legal production car in the world, with a top speed of 431.072 km/h (267.856 mph), 
+                            and the roadster Veyron Grand Sport Vitesse version is the fastest roadster in the world, reaching an averaged top speed 
+                            of 408.84 km/h (254.04 mph) in a test on 6 April 2013.
+
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>8.0L</v:engineSize>
+                            <v:topSpeed>254.04mph</v:topSpeed>
+                            <v:bhp>987bhp</v:bhp>
+                            <v:zero-sixty>2.4secs</v:zero-sixty>
+                            <v:cost>1,806,728</v:cost>
+                            <v:mpg>9.6mpg</v:mpg>
+                            <v:cylinders>W16 Quad-Turbocharged</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c5">
+                    <v:image>images/cars/mc12c.jpg</v:image>
+                    <parameter>5</parameter>
+                    <v:video>//www.youtube.com/embed/BCPZSaHyZGQ</v:video>
+                    <v:details>
+                            <v:name>McLaren 12C</v:name>
+                            <v:manuacturer>McLaren</v:manuacturer>
+                            <v:description>
+                            The McLaren MP4-12C, later known simply as the McLaren 12C, is a supercar designed and manufactured by McLaren Automotive. It 
+                            is the first production car wholly designed and built by McLaren since the McLaren F1, which ended production in 1998. The car's 
+                            final design was unveiled in September 2009, and was launched in mid-2011.The MP4-12C features a carbon fibre composite chassis, 
+                            and is powered by a mid-mounted McLaren M838T 3.8-litre V8, twin-turbo engine developing approximately 592 hp (441 kW; 600 PS) and 
+                            around 443 lb·ft (601 N·m) of torque. The car makes use of Formula 1-sourced technologies such as "brake steer",[4] where the inside 
+                            rear wheel is braked during fast cornering to reduce understeer. Power is transmitted to the wheels through a seven-speed seamless 
+                            shift dual-clutch gearbox. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>3.8L</v:engineSize>
+                            <v:topSpeed>213.2mph</v:topSpeed>
+                            <v:bhp>592bhp</v:bhp>
+                            <v:zero-sixty>2.8mpg</v:zero-sixty>
+                            <v:cost>183,820</v:cost>
+                            <v:mpg>20mpg</v:mpg>
+                            <v:cylinders>V8</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c6">
+                    <v:image>images/cars/kagera.jpg</v:image>
+                    <parameter>6</parameter>
+                    <v:video>//www.youtube.com/embed/GJUgxclwtc8</v:video>
+                    <v:details>
+                            <v:name>Koenigsegg Agera</v:name>
+                            <v:manuacturer>Koenigsegg</v:manuacturer>
+                            <v:description>
+                            The Koenigsegg Agera is a mid-engined sports car made by Swedish car manufacturer Koenigsegg as of 2011. It is a successor to the 
+                            Koenigsegg CCX/CCXR. The name Agera comes from the Swedish verb 'agera' which means "to act or "to take action".
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>5.0L</v:engineSize>
+                            <v:topSpeed>270mph</v:topSpeed>
+                            <v:bhp>940bhp</v:bhp>
+                            <v:zero-sixty>3.0secs</v:zero-sixty>
+                            <v:cost>1,520,000</v:cost>
+                            <v:mpg>9.0mpg</v:mpg>
+                            <v:cylinders>V8 Twin-Turbocharged</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c7">
+                    <v:image>images/cars/huayra.jpg</v:image>
+                    <parameter>7</parameter>
+                    <v:video>//www.youtube.com/embed/-_bakHYcD9o</v:video>
+                    <v:details>
+                            <v:name>Pagani Huayra</v:name>
+                            <v:manuacturer>Pagani</v:manuacturer>
+                            <v:description>
+                            The Pagani Huayra (pronounced: wai-rah) is an Italian mid-engined sports car produced by Pagani. Succeeding the company's previous 
+                            offering, the Zonda, it costs  1,198,000 ($1,600,000). It is named after Wayra Tata, which means "God of the winds" in Quechua, the 
+                            official language of the Inca Empire.The Huayra was named "The Hypercar of the Year 2012" by Top Gear magazine and received a very 
+                            positive review when tested by Richard Hammond on Top Gear. The Huayra is currently the fastest car to go around the Top Gear Test 
+                            Track, setting a time of 1:13.8, beating the previous record of 1:15.1 set by the Ariel Atom V8 in January 2011.
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>3L</v:engineSize>
+                            <v:topSpeed>231mph</v:topSpeed>
+                            <v:bhp>720bhp</v:bhp>
+                            <v:zero-sixty>3.2secs</v:zero-sixty>
+                            <v:cost>1,198,000</v:cost>
+                            <v:mpg>10mpg</v:mpg>
+                            <v:cylinders>V12 Twin-Turbo</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c8">
+                    <v:image>images/cars/granturismo.jpg</v:image>
+                    <parameter>8</parameter>
+                    <v:video>//www.youtube.com/embed/Bfiuv8HbByw</v:video>
+                    <v:details>
+                            <v:name>Maserati GranTurismo</v:name>
+                            <v:manuacturer>Maserati</v:manuacturer>
+                            <v:description>
+                            The Maserati GranTurismo is a two-door, four-seat coupé produced by the Italian car manufacturer Maserati. It shares the platform of the 
+                            Maserati Quattroporte V and parts of the Ferrari 599 GTB and Scaglietti.Launched in 2007 as coupe, with a cabriolet model added in 2010,
+                            production of the GranTurismo is scheduled to end in 2014, with its replacement not expected to be launched until 2018. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>4.2L</v:engineSize>
+                            <v:topSpeed>177mph</v:topSpeed>
+                            <v:bhp>399bhp</v:bhp>
+                            <v:zero-sixty>4.5secs</v:zero-sixty>
+                            <v:cost>135,000</v:cost>
+                            <v:mpg>18.3mpg</v:mpg>
+                            <v:cylinders>V8</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c9">
+                    <v:image>images/cars/i8.jpg</v:image>
+                    <parameter>9</parameter>
+                    <v:video>//www.youtube.com/embed/gHAa4vDum5M</v:video>
+                    <v:details>
+                            <v:name>BMW I8</v:name>
+                            <v:manuacturer>BMW</v:manuacturer>
+                            <v:description>
+                            The BMW i8, first introduced as the BMW Concept Vision Efficient Dynamics, is a plug-in hybrid sports car developed by BMW. The 2015 model year 
+                            BMW i8 has a 7.1 kWh lithium-ion battery pack that delivers an all-electric range of 37 km (23 mi) under the New European Driving Cycle (NEDC).
+                            Under the United States Environmental Protection Agency (EPA) cycle, the range in EV mode is 24 km (15 mi) with a small amount of gasoline consumption. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>1.5L</v:engineSize>
+                            <v:topSpeed>160mph</v:topSpeed>
+                            <v:bhp>131bhp</v:bhp>
+                            <v:zero-sixty>4.4secs</v:zero-sixty>
+                            <v:cost>136,625</v:cost>
+                            <v:mpg>135mpg</v:mpg>
+                            <v:cylinders>Inline-3 Turbocharged</v:cylinders>
+                    </v:specification>
+            </v:vehicle>
+
+            <v:vehicle id="c10">
+                    <v:image>images/cars/ford.jpg</v:image>
+                    <parameter>10</parameter>
+                    <v:video>//www.youtube.com/embed/wTTsltl6wT8</v:video>
+                    <v:details>
+                            <v:name>Ford GT</v:name>
+                            <v:manuacturer>Ford</v:manuacturer>
+                            <v:description>
+                            The Ford GT is an American mid-engine two-seater sports car. Ford Motor Company produced the Ford GT for the 2005 to 2006 model years. The designers 
+                            drew inspiration from Ford's GT40 racing cars of the 1960s. 
+                            </v:description>
+                    </v:details>
+
+                    <v:specification>
+                            <v:engineSize>5.4L</v:engineSize>
+                            <v:topSpeed>205mpg</v:topSpeed>
+                            <v:bhp>550bhp</v:bhp>
+                            <v:zero-sixty>3.6secs</v:zero-sixty>
+                            <v:cost>119,760</v:cost>
+                            <v:mpg>17mpg</v:mpg>
+                            <v:cylinders>V8</v:cylinders>
+                    </v:specification>
+            </v:vehicle>  
+</v:vehicles>

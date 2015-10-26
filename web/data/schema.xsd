@@ -1,0 +1,40 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.WebDev.nci/tutorial">
+    <xs:element name="vehicles">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="vehicle" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="image"/>
+                            <xs:element type="xs:string" name="parameter"/>
+                            <xs:element type="xs:string" name="video"/>
+                            <xs:element name="details">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:string" name="name"/>
+                                        <xs:element type="xs:string" name="manuacturer"/>
+                                        <xs:element type="xs:string" name="description"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="specification">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element type="xs:string" name="engineSize"/>
+                                        <xs:element type="xs:string" name="topSpeed"/>
+                                        <xs:element type="xs:string" name="bhp"/>
+                                        <xs:element type="xs:string" name="zero-sixty"/>
+                                        <xs:element type="xs:string" name="cost"/>
+                                        <xs:element type="xs:string" name="mpg"/>
+                                        <xs:element type="xs:string" name="cylinders"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute type="xs:byte" name="id" use="optional"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

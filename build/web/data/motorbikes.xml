@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<b:vehicles  xmlns:b="http://www.WebDev.nci/tutorial">
+    <b:vehicle id="b1">
+        <b:image>images/bikes/S1000RR-HP4.jpg</b:image>
+        <parameter>1</parameter>
+        <b:video>//www.youtube.com/embed/cZKfTgnzgaY</b:video>
+        <b:details>
+            <b:name>BMW S1000RR HP4</b:name>
+            <b:manuacturer>BMW</b:manuacturer>
+            <b:description>
+                As if the standard S1000RR wasn’t good enough already, BMW have made it even faster, 
+                lighter and more technologically-advanced, with this HP4 version. The jewel in the HP4’s crown is the new 
+                electronic Dynamic Damping Control (DDC) suspension system, which adjusts the rebound and compression damping 
+                as you ride along. It gives the BMW the perfect suspension setting whether you’re on a bumpy back-road or hammering 
+                around a smooth racetrack. 
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>999cc</b:engineSize>
+            <b:topSpeed>191mph</b:topSpeed>
+            <b:bhp>198bhp</b:bhp>
+            <b:zero-sixty>2.4secs</b:zero-sixty>
+            <b:cost>18,500</b:cost>
+            <b:mpg>51mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b2">
+        <b:image>images/bikes/CBR-1000.jpg</b:image>
+        <parameter>2</parameter>
+        <b:video>//www.youtube.com/embed/GMn0ihTM1IE</b:video>
+        <b:details>
+            <b:name>Honda CBR1000RR Fireblade</b:name>
+            <b:manuacturer>Honda</b:manuacturer>
+            <b:description> 
+                The big news for the 2009 Honda CBR1000RR Fireblade isn’t its new, oval-shaped indicators, 
+                but its revolutionary electronically-controlled Combined ABS system. This makes the Honda Fireblade 
+                the world’s first ever ABS-equipped superbike. This system takes none of the enjoyment out of riding 
+                this incredible superbike and it feels just the same to ride as a normal Blade, even on the track. 
+                The system stays in the background until the moment you get into a difficult braking situation, then the 
+                ‘brake-by-wire’ kicks in.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>999cc</b:engineSize>
+            <b:topSpeed>186mph</b:topSpeed>
+            <b:bhp>176bhp</b:bhp>
+            <b:zero-sixty>2.3secs</b:zero-sixty>
+            <b:cost>17,995</b:cost>
+            <b:mpg>48mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b3">
+        <b:image>images/bikes/ZZR-1400.jpg</b:image>
+        <parameter>3</parameter>
+        <b:video>//www.youtube.com/embed/FbfasHEwx3E</b:video>
+        <b:details>
+            <b:name>Kawasaki ZZR1400</b:name>
+            <b:manuacturer>Kawasaki</b:manuacturer>
+            <b:description> 
+                Simply put Kawasaki’s new ZZR is the new king of speed and power, beating the formidable Hayabusa hands down. 
+                It produces more power and torque, and accelerates quicker than any other road bike but unfortunately is still 
+                restricted to anb:specification agreed 186mph limit, but will get there in breathtaking time, hitting the limiter with ease, 
+                still with plenty in reserve. Not just a one trick pony either, now comes with ABS, power modes and traction control 
+                as standard.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>1441cc</b:engineSize>
+            <b:topSpeed>201mph</b:topSpeed>
+            <b:bhp>200bhp</b:bhp>
+            <b:zero-sixty>1.8secs</b:zero-sixty>
+            <b:cost>16,000</b:cost>
+            <b:mpg>47mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b4">
+        <b:image>images/bikes/GSXR-1000.jpg</b:image>
+        <parameter>4</parameter>
+        <b:video>//www.youtube.com/embed/pR9Hkm3u8lc</b:video>
+        <b:details>
+            <b:name>Suzuki GSX-R1000</b:name>
+            <b:manuacturer>Suzuki</b:manuacturer>
+            <b:description>
+                The now old GSX-R was an exceptional bike, winning AMA and world endurance 
+                titles and narrowly missing out on a BSB title. Suzuki have simply improved the weak points, 
+                namely better brakes, more midrange, lighter handling with a few cosmetic tweaks, which in the end produces an 
+                exceptional road bike with real world manners. It may lack sophisticated traction control and ABS, and isn’t as 
+                race-focussed as BMW’s S1000R or Kawasaki’s ZX-10R but it won’t be far behind in terms of lap times and is much more
+                forgiving on the road
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>999cc</b:engineSize>
+            <b:topSpeed>186mph</b:topSpeed>
+            <b:bhp>182bhp</b:bhp>
+            <b:zero-sixty>2.3secs</b:zero-sixty>
+            <b:cost>19,000</b:cost>
+            <b:mpg>50mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b5">
+        <b:image>images/bikes/ZXR-1000.jpg</b:image>
+        <parameter>5</parameter>
+        <b:video>//www.youtube.com/embed/UuPiTq4HjYE</b:video>
+        <b:details>
+            <b:name>Kawasaki ZX-10R</b:name>
+            <b:manuacturer>Kawasaki</b:manuacturer>
+            <b:description> 
+                Kawasaki’s ZX-10R evokes thoughts of rip-roaring power and handling best suited to race circuits. 
+                While that may have been the case of the original 2004 model, subsequent models have been diluted to the point 
+                where ZX-10R is regarded as a decent on the road superbike but not quite in touch with the competition of the latest Blade, 
+                techno-laden R1 and BMW’s S1000RR. The 2011 Kawasaki ZX-10R is the bike to change this. 
+                It is the first of the Japanese bikes to come out fighting against the storming BMW and, based on MCN’s first ride 
+                (at Qatar’s Losail circuit), the Kawasaki’s superb blend of handling, braking, usable power and decent suspension will 
+                make it a better road bike than the BMW.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>998cc</b:engineSize>
+            <b:topSpeed>185mph</b:topSpeed>
+            <b:bhp>197bhp</b:bhp>
+            <b:zero-sixty>1.98sec</b:zero-sixty>
+            <b:cost>15,000</b:cost>
+            <b:mpg>49mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b6">
+        <b:image>images/bikes/GSXR-600.jpg</b:image>
+        <parameter>6</parameter>
+        <b:video>//www.youtube.com/embed/09rAyNIxp_Y</b:video>
+        <b:details>
+            <b:name>Suzuki GSX-R600</b:name>
+            <b:manuacturer>Suzuki</b:manuacturer>
+            <b:description> 
+                Suzuki has slashed an incredible 9kg from the 2011 GSX-R600. The engine has more midrange, 
+                a close ratio gearbox and for the first time, Showa Big Piston Forks and Brembo monobloc radial front brakes. 
+                Aside from a handful of components, the GSX-R600 is completely new. The easy-going nature of the bike is still there, 
+                but it’s sharper, more agile and there’s more punch out of the corners. If only it looked a bit special and not look just 
+                like any other GSX-R to be made over the past decade.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>599cc</b:engineSize>
+            <b:topSpeed>176mph</b:topSpeed>
+            <b:bhp>125bhp</b:bhp>
+            <b:zero-sixty>2.9</b:zero-sixty>
+            <b:cost>13,000</b:cost>
+            <b:mpg>54mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b7">
+        <b:image>images/bikes/CBR-600.jpg</b:image>
+        <parameter>7</parameter>
+        <b:video>//www.youtube.com/embed/T0HRxdC8eYo</b:video>
+        <b:details>
+            <b:name>Honda CBR600RR</b:name>
+            <b:manuacturer>Honda</b:manuacturer>
+            <b:description>
+                Honda has given its supersports weapon subtle tweaks for 2009, designed to give it more mid-range oomph and a 
+                smoother power delivery. New pistons, cylinder head and exhaust system have bolstered torque between 6000-10,000rpm, 
+                which makes the engine more flexible on the road. Luckily for us, this has been done without sacrificing any top-end power. 
+                The big news, though, is the optional electronically-controlled Combined ABS system, which is a world-first for a supersports machine. A new-style bellypan now 
+                covers the whole engine and the C-ABS valve unit for the front brake. The C-ABS version doesn’t detract from the 
+                enjoyment of riding MCN’s supersport 2008 machine of the year, and it feels just the same to ride as the standard Honda 
+                CBR600RR, even on the track
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>599cc</b:engineSize>
+            <b:topSpeed>170mph</b:topSpeed>
+            <b:bhp>107bhp</b:bhp>
+            <b:zero-sixty>2.7secs</b:zero-sixty>
+            <b:cost>13,500</b:cost>
+            <b:mpg>32mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b8">
+        <b:image>images/bikes/ZXR-600.jpg</b:image>
+        <parameter>8</parameter>
+        <b:video>//www.youtube.com/embed/eF21f1JlYj4</b:video>
+        <b:details>
+            <b:name>Kawasaki ZX-6R</b:name>
+            <b:manuacturer>Kawasaki</b:manuacturer>
+            <b:description>
+                In terms of chassis and handling the new Kawasaki ZX-6R a big step forward over the old ZX-6R. The new big piston 
+                forks use MotoGP technology and make a huge difference. They take a little getting use to at first but enable you to 
+                brake devilishly late yet the bike remains stable. Engine wise 115bhp at the back wheel makes it the most powerful 
+                standard 600 we have ever tested, say no more.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>599cc</b:engineSize>
+            <b:topSpeed>163mph</b:topSpeed>
+            <b:bhp>115bhp</b:bhp>
+            <b:zero-sixty>2.8secs</b:zero-sixty>
+            <b:cost>10,000</b:cost>
+            <b:mpg>36mpg</b:mpg>
+            <b:cylinders>Inline-4</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b9">
+        <b:image>images/bikes/VFR-400.jpg</b:image>
+        <parameter>9</parameter>
+        <b:video>//www.youtube.com/embed/ox-yYLuJ4CE</b:video>
+        <b:details>
+            <b:name>Honda VFR400R NC30</b:name>
+            <b:manuacturer>Honda</b:manuacturer>
+            <b:description>
+                The Honda VFR400R, or NC30 as it’s commonly known, is effectively a 400cc version of the iconic VFR750R (RC30) 
+                and as such is a cheaper alternative to the RVF400R which succeeded it in 1994. It has excellent handling, still 
+                looks good and a usable engine for road and track, although it’s not as quick flat out as some of the other 400 imports. 
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>399cc</b:engineSize>
+            <b:topSpeed>128mph</b:topSpeed>
+            <b:bhp>60bhp</b:bhp>
+            <b:zero-sixty>3.2secs</b:zero-sixty>
+            <b:cost>6,000</b:cost>
+            <b:mpg>39mpg</b:mpg>
+            <b:cylinders>V Four</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+
+    <b:vehicle id="b10">
+        <b:image>images/bikes/DUCATI-1098.jpg</b:image>
+        <parameter>10</parameter>
+        <b:video>//www.youtube.com/embed/zAbvbRESniI</b:video>
+        <b:details>
+            <b:name>Ducati 1098</b:name>
+            <b:manuacturer>Ducati</b:manuacturer>
+            <b:description>
+                This is the Ducati motorcycle we’ve been waiting for since the original Ducati 916. It’s a Ducati motorcycle 
+                in the truest form. Blood red, stunning to look at and absolutely pure in its purpose. It’s been a long time coming 
+                but it finally looks like Ducati has built a sports bike that can run with the best. The Ducati 1098 finally stands 
+                for what a Ducati motorycle means - pure unadulterated sports bike heaven.
+            </b:description>
+        </b:details>
+
+        <b:specification>
+            <b:engineSize>1099cc</b:engineSize>
+            <b:topSpeed>185mph</b:topSpeed>
+            <b:bhp>160bhp</b:bhp>
+            <b:zero-sixty>2.2secs</b:zero-sixty>
+            <b:cost>20,000</b:cost>
+            <b:mpg>42mpg</b:mpg>
+            <b:cylinders>Desmo V-Twin</b:cylinders>
+        </b:specification>
+    </b:vehicle>
+</b:vehicles>
